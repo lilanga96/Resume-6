@@ -1,0 +1,30 @@
+.parent {
+    display: flex;
+}
+
+.child1 {
+    width: 300px;
+    height: 1000px;
+    border: 3px solid black;
+    padding-left: 2%;
+}
+
+.child2 {
+    width: 600px;
+    height: 1000px;
+    border: 3px solid black;
+    padding-left: 4%;
+
+}
+
+#git {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
