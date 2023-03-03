@@ -7,6 +7,8 @@
     height: 1000px;
     border: 3px solid black;
     padding-left: 2%;
+
+
 }
 
 .child2 {
@@ -14,6 +16,9 @@
     height: 1000px;
     border: 3px solid black;
     padding-left: 4%;
+    background-color: black;
+    color: whitesmoke;
+
 
 }
 
@@ -27,4 +32,22 @@
     width: 200px;
     height: 200px;
     border-radius: 50%;
+    border: 3px solid rgb(231, 20, 161);
+
+}
+
+h2 {
+    text-decoration-line: underline;
+    text-decoration-color: rgb(231, 20, 161);
+}
+
+h1 {
+    text-decoration-line: underline;
+    text-decoration-color: rgb(231, 20, 161);
+    ;
+}
+
+h4 {
+    background-color: rgb(231, 20, 161);
+    ;
 }
